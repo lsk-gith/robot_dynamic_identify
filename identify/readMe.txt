@@ -5,3 +5,4 @@ excel表格文件组合值为：Angle Velocity Accelerate    q,          dq,    
 当然都是相同长度的数据，
 以Accelerate长度为基准
 数据比较大，没发上传
+参考文档地址：https://www.jianshu.com/p/bc1153523024
